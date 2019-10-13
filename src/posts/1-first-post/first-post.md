@@ -1,3 +1,11 @@
+---
+title: first post
+slug: first-post
+image: ./images/image-1.jpg
+date: 2019-06-01
+author: Jose Cerqueira
+---
+
 import {Layout, Counter} from "../../components/"
 
 <Layout>
@@ -29,6 +37,12 @@ console.log(string)
 
 hello(name) // Jose Cerqueira
 ```
+
+</div>
+
+<div className="post-image">
+
+![](./images/image-3.jpg)
 
 </div>
 

@@ -1,3 +1,11 @@
+---
+title: first post
+slug: first-post
+image: ./images/image-1.jpeg
+date: 2019-06-01
+author: Jose Cerqueira
+---
+
 import {Layout, Counter} from "../components/"
 
 <Layout>

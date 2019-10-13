@@ -32,6 +32,11 @@ margin: 2rem 0
 color: green;
 margin: 3rem 0;
 text-transform: capitalize;
+}
 
+.post-image span {
+display: block;
+max-width: 100% !important;
+margin: 2rem;
 }
 `

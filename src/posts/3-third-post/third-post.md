@@ -1,3 +1,11 @@
+---
+title: third post
+slug: third-post
+image: ./images/image-3.jpg
+date: 2019-07-17
+author: Jose Cerqueira
+---
+
 import {Layout, Counter} from "../../components/"
 
 <Layout>
@@ -31,5 +39,18 @@ hello(name) // Jose Cerqueira
 ```
 
 </div>
+
+<div className="post-image">
+
+![](./images/image-2.jpg)
+
+</div>
+
+Lorem ipsum dolor amet thundercats hashtag keytar VHS franzen
+farm-to-table retro intelligentsia swag PBR&B 90's next level drinking
+vinegar. _Typewriter gluten-free williamsburg cold-pressed selvage. Jean
+shorts locavore meggings church-key keytar sustainable, viral
+farm-to-table woke pour-over letterpress tilde brooklyn listicle
+pop-up._ 
 
 </Layout>
